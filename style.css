@@ -32,5 +32,5 @@ body {
   min-height: 100%; /* Allows body to grow with content */
   margin: 0 auto; /* Remove default body margin */
   min-height: 100vh;
-  padding:5%;
+  padding:0 5%;
 }
